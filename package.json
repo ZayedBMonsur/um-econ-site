@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
-    "vite": "7.1.5"
+    "vite": "\"scripts\": {\n  \"dev\": \"vite\",\n  \"build\": \"npx vite build\",\n  \"preview\": \"vite preview\"\n}7.1.5"
   }
 }
